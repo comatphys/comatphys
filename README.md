@@ -1,8 +1,8 @@
-# Hello, I’m Zihan YAN! 👋
+# Hello, I’m Peng-Fei Liu and work at China Spallation Neutron Source! 👋
 
 <a href="mailto:pfliu@ihep.ac.cn"> <img src="https://img.shields.io/badge/Email-pfliu@ihep.ac.cn-blue?style=flat-square&logo=email" alt="Email"> </a> <a href="https://scholar.google.com/citations?user=v0zhAS4AAAAJ&hl"> <img src="https://img.shields.io/badge/Google_Scholar-Zihan_Yan-green?style=flat-square&logo=google-scholar" alt="Google Scholar"> </a> <a href="https://github.com/comatphys"> <img src="https://img.shields.io/badge/GitHub-comatphys-black?style=flat-square&logo=github" alt="GitHub"> </a> <img src="https://komarev.com/ghpvc/?username=comatphys&color=brightgreen&style=flat-square" alt="Profile Views">
 
-I graduated from the Liberal Arts and Sciences Honors Program of **Henan University** in 2012, earning a Bachelor of Science degree. In 2017, I obtained my Ph.D. from the **Fujian Institute of Research on the Structure of Matter**, University of Chinese Academy of Sciences. Subsequently, I joined the Dongguan Branch of the **Institute of High Energy Physics**, Chinese Academy of Sciences (China Spallation Neutron Source) in the same year.
+I graduated from the **Henan University** in 2012, earning a Bachelor of Science degree. In 2017, I obtained my Ph.D. from the **Fujian Institute of Research on the Structure of Matter**, University of Chinese Academy of Sciences. Subsequently, I joined the Dongguan Branch of the **Institute of High Energy Physics**, Chinese Academy of Sciences (China Spallation Neutron Source) in the same year.
 
 
 My research focuses on the investigation of condensed matter materials through theoretical calculations and large-scale scientific facilities. Specifically, I employ first-principles calculations, neutron scattering, and synchrotron X-ray techniques to study the crystal structures and dynamics of functional materials. My work explores the interactions between electrons, phonons, and orbitals in materials, as well as the resulting novel physical phenomena and their impact on various properties of functional materials.
