@@ -1,6 +1,6 @@
 <img src="https://github.com/comatphys/comatphys/blob/main/hacker.gif" align="center" width="100%">
 
-## Peng-Fei Liu 刘鹏飞 👋
+## <center>Peng-Fei Liu 刘鹏飞 👋</center>
 
 ### Find me on:
 <a href="mailto:pfliu@ihep.ac.cn"> <img src="https://img.shields.io/badge/Email-pfliu@ihep.ac.cn-blue?style=flat-square&logo=email" alt="Email"> </a> 
