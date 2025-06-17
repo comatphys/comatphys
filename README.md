@@ -1,6 +1,8 @@
 <img align="center" alt="GIF"  width="100%" src="./hacker.gif">
 
-## Hello, I’m Peng-Fei Liu, a researcher @ Institute of High Energy Physics! 👋
+## Peng-Fei Liu 刘鹏飞 👋
+
+### Find me on:
 <a href="mailto:pfliu@ihep.ac.cn"> <img src="https://img.shields.io/badge/Email-pfliu@ihep.ac.cn-blue?style=flat-square&logo=email" alt="Email"> </a> 
 <a href="https://scholar.google.com/citations?user=v0zhAS4AAAAJ&hl"> <img src="https://img.shields.io/badge/Google_Scholar-Peng_Fei_Liu-green?style=flat-square&logo=google-scholar" alt="Google Scholar"> </a> 
 <a href="https://github.com/comatphys"> <img src="https://img.shields.io/badge/GitHub-comatphys-black?style=flat-square&logo=github" alt="GitHub"> </a> 
