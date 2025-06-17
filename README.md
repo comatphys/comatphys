@@ -1,7 +1,7 @@
 ## Hello, I’m Peng-Fei Liu, a researcher @ Institute of High Energy Physics! 👋
 
 <div align=center>
-<img src="hacker.gif" width="60%">
+<img src="./hacker.gif" width="60%">
 </div>
 
 <a href="mailto:pfliu@ihep.ac.cn"> <img src="https://img.shields.io/badge/Email-pfliu@ihep.ac.cn-blue?style=flat-square&logo=email" alt="Email"> </a> 
