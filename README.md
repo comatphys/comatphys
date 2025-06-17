@@ -1,8 +1,6 @@
 ## Hello, I’m Peng-Fei Liu, a researcher @ Institute of High Energy Physics! 👋
 
-<div align=center>
-<img src="./hacker.gif" width="60%">
-</div>
+<img align="center" alt="GIF" src="./hacker.gif" width="60%">
 
 <a href="mailto:pfliu@ihep.ac.cn"> <img src="https://img.shields.io/badge/Email-pfliu@ihep.ac.cn-blue?style=flat-square&logo=email" alt="Email"> </a> 
 <a href="https://scholar.google.com/citations?user=v0zhAS4AAAAJ&hl"> <img src="https://img.shields.io/badge/Google_Scholar-Peng_Fei_Liu-green?style=flat-square&logo=google-scholar" alt="Google Scholar"> </a> 
