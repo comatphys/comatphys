@@ -1,4 +1,4 @@
-<img align="center" alt="GIF"  width="100%" src="./hacker.gif">
+![image](https://github.com/comatphys/comatphys/blob/main/hacker.gif)
 
 ## Peng-Fei Liu 刘鹏飞 👋
 
