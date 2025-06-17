@@ -1,5 +1,9 @@
 ![image](https://github.com/comatphys/comatphys/blob/main/hacker.gif)
 
+![Alt Text](https://github.com/comatphys/comatphys/blob/main/hacker.gif)
+<br>
+<img src="https://github.com/comatphys/comatphys/blob/main/hacker.gif" width="40" height="40" />
+
 ## Peng-Fei Liu 刘鹏飞 👋
 
 ### Find me on:
