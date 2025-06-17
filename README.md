@@ -1,5 +1,4 @@
-<img src="https://github.com/comatphys/comatphys/blob/main/hacker.gif">
-
+<img src="https://github.com/comatphys/comatphys/blob/main/hacker.gif align="center">
 ## Peng-Fei Liu 刘鹏飞 👋
 
 ### Find me on:
